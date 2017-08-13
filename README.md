@@ -2,6 +2,8 @@ LeetCode Parctice
 
 Best Rank: 
 
+3 / 2226, Contest 45
+
 4 / 2207, Contest 42
 
 38 / 2174, Contest 41
